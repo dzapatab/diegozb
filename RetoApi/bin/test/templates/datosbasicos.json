@@ -1,0 +1,6 @@
+{
+    "gender":"male",
+	"last_name":"Zapata",
+	"first_name":"Diego",
+	"email":"${correo}"
+}
